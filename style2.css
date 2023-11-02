@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: #c5dfff;
+  }
+  
+  header {
+    background-color: #aed581;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #fffac8;
+  }
+  
+  nav {
+    float: right;
+    margin-top: 20px;
+  }
+  
+  a {
+    color: #ffdab9;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #FF0000;
+  }
+  
+  h2 {
+    color:#ffdab9
+  }
+  
+  h3{
+    color:#ffdab9
+  }
